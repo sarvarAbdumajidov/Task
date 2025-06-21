@@ -6,16 +6,16 @@ A Flutter app that provides fun and educational facts about numbers based on mat
 
 ## 📸 Demo
 
-![Pages](assets/images/1.jpg)  
-![Pages](assets/images/2.jpg)  
-![Pages](assets/images/3.jpg)  
-![Pages](assets/images/4.jpg)  
-![Pages](assets/images/5.jpg)  
-![Pages](assets/images/6.jpg)  
-![Pages](assets/images/7.jpg)  
-![Pages](assets/images/8.jpg)  
-![Pages](assets/images/9.jpg)  
-![Video](assets/videos/saved.png)
+![Pages](assets/images/1.png)  
+![Pages](assets/images/2.png)  
+![Pages](assets/images/3.png)  
+![Pages](assets/images/4.png)  
+![Pages](assets/images/5.png)  
+![Pages](assets/images/6.png)  
+![Pages](assets/images/7.png)  
+![Pages](assets/images/8.png)  
+![Pages](assets/images/9.png)  
+![Video](assets/videos/Screenrecorder-2025-06-21-11-03-20-123.mp4)
 
 🎬 [Watch Demo Video](assets/videos/Screenrecorder-2025-06-21-11-03-20-123.mp4)
 
