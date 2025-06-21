@@ -24,7 +24,7 @@ A Flutter app that provides fun and educational facts about numbers based on mat
 
 ## ![Screen 9](assets/images/9.png)
 
-download the video through the link
+download the video via the link. click on view raw!!!
 
 🎬 [Watch Demo Video](assets/videos/Screenrecorder-2025-06-21-11-03-20-123.mp4)
 
