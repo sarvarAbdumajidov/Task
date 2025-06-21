@@ -6,16 +6,25 @@ A Flutter app that provides fun and educational facts about numbers based on mat
 
 ## 📸 Demo
 
-![Pages](assets/images/1.png)  
-![Pages](assets/images/2.png)  
-![Pages](assets/images/3.png)  
-![Pages](assets/images/4.png)  
-![Pages](assets/images/5.png)  
-![Pages](assets/images/6.png)  
-![Pages](assets/images/7.png)  
-![Pages](assets/images/8.png)  
-![Pages](assets/images/9.png)  
-![Video](assets/videos/Screenrecorder-2025-06-21-11-03-20-123.mp4)
+## ![Screen 1](assets/images/1.png)
+
+## ![Screen 2](assets/images/2.png)
+
+## ![Screen 3](assets/images/3.png)
+
+## ![Screen 4](assets/images/4.png)
+
+## ![Screen 5](assets/images/5.png)
+
+## ![Screen 6](assets/images/6.png)
+
+## ![Screen 7](assets/images/7.png)
+
+## ![Screen 8](assets/images/8.png)
+
+## ![Screen 9](assets/images/9.png)
+
+download the video through the link
 
 🎬 [Watch Demo Video](assets/videos/Screenrecorder-2025-06-21-11-03-20-123.mp4)
 
